@@ -1,0 +1,15 @@
+DIRECT,https://raw.githubusercontent.com/NobyDa/Script/master/Surge/Download.list
+REJECT,https://raw.githubusercontent.com/GoodHolidays/ConnersHua/master/Surge/Ruleset/Hijacking.list
+Proxies,https://raw.githubusercontent.com/GoodHolidays/ConnersHua/master/Surge/Ruleset/Global.list
+Apple,https://raw.githubusercontent.com/GoodHolidays/ConnersHua/master/Surge/Ruleset/Apple.list
+Telegram,https://raw.githubusercontent.com/GoodHolidays/ConnersHua/master/Surge/Ruleset/Telegram.list
+Youtube,https://raw.githubusercontent.com/GoodHolidays/ConnersHua/master/Surge/Ruleset/Media/YouTube.list
+Netflix,https://raw.githubusercontent.com/GoodHolidays/ConnersHua/master/Surge/Ruleset/Media/Netflix.list
+Bahamut,https://raw.githubusercontent.com/GoodHolidays/ConnersHua/master/Surge/Ruleset/Media/Bahamut.list
+HKMTMedia,https://raw.githubusercontent.com/GoodHolidays/ConnersHua/master/Surge/Ruleset/HKMTMedia.list
+GlobalMedia,https://raw.githubusercontent.com/Fangshing87/openclash_sub_ini/main/GlobalMedia.list
+DIRECT,https://raw.githubusercontent.com/tindy2013/subconverter/master/base/rules/LocalAreaNetwork.list
+DIRECT,https://raw.githubusercontent.com/GoodHolidays/ConnersHua/master/Surge/Ruleset/Unbreak.list
+DIRECT,https://raw.githubusercontent.com/GoodHolidays/ConnersHua/master/Surge/Ruleset/China.list
+DIRECT,[]GEOIP,CN
+Final,[]MATCH
