@@ -1,0 +1,11 @@
+payload:
+  - DST-PORT,500
+  - DST-PORT,4500
+  - DOMAIN-KEYWORK,3gppnetwork
+  - DOMAIN-KEYWORK,epdg
+  - DOMAIN-KEYWORK,ims
+  - DOMAIN-SUFFIX,prod.ondemandconnectivity.com
+  - DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com
+  - DOMAIN-SUFFIX,wlan.three.com.hk
+  - DOMAIN-SUFFIX,wlan.datapath.three.com.hk
+  - DOMAIN-SUFFIX,eas3.msg.t-mobile.com
